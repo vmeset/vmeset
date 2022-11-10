@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://vmeset.github.io/sitemap/sitemap-index.xml
+Host: https://vmeset.github.io
